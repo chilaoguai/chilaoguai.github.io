@@ -1,1 +1,0 @@
-var posts=["2023/10/23/hexo创建分类的方法/","2023/10/23/hexo创建“标签”的方法/","2023/10/23/《老怪笔记》博客上线了/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
